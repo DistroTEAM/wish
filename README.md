@@ -8,7 +8,7 @@ issue what program do you wish to have
 >
 > **A**re you a programer to? __Great!__. help us to implement the program that people wish to have. for cooperation on the project(s) just [E-Mail](https://mail.google.com/mail/u/0/#inbox?compose=new) us or tell us in the corresponding "wish" issue.
 > 
-> **O**r if you are working on a topic which someone issue that topic here, just tell us. we will add the datail on this page.
+> **O**r if you are working on a topic which someone issued that topic here, just tell us. we will add the datail on this page.
 > 
 > **W**hen someone ask us for contribute to a program, we will make a repo and add he/she to the list of contributes.
 >
