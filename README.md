@@ -10,7 +10,7 @@ issue what program do you wish to have
 >
 > when some one ask us for contribute to a program, we will make a repo and add he/she to the list of contributes.
 >
-> whene a projcet begun or finished. the project detail will writen to the following table.
+> when a projcet begun or finished. the project detail will writen to the following table.
 
 
 ### Project(s) are:
