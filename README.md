@@ -36,8 +36,8 @@ issue what program do you wish to have
 ![wish](https://s4.uupload.ir/files/wish_lfa3.jpg)
 
 
-[//]: # (if you need the image of programing languages use the following links, if you are adding a image be sure the size is 35px)
+[//]: # (if you need the image of programing languages use the following links, if you are adding a image be sure the size is exactly 35px)
 [//]: # (markdown: https://b2n.ir/z61490)
 [//]: # (python: https://b2n.ir/d06737)
-
-
+[//]: # (c++: https://b2n.ir/g70215)
+[//]: # (javascript: https://b2n.ir/j38045)
