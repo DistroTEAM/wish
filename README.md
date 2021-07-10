@@ -15,7 +15,7 @@ issue what program do you wish to have
 
 ### Project(s) are:
 > | number | name | issue page | project link | programing language(s) | state |
-> |:------:|:----:|:----------:|:------------:|:----------------------:|:-------------:|
+> |:------:|:----:|:----------:|:------------:|:----------------------|:-------------:|
 > | 1 | wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish)| ![markdown](https://s4.uupload.ir/files/md_xae5.png) | building |
 
 ### detail(s) concept:
