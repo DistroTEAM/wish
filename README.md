@@ -19,7 +19,7 @@ issue what program do you wish to have
 > | 1 | wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish)| ![markdown](https://b2n.ir/z61490) | building |
 
 ### detail(s) concept:
-> __Nuber__: indicate the number of project(s).
+> __Number__: indicate the number of project(s).
 > 
 > __Name__: the name of the project.
 > 
