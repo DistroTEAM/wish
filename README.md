@@ -8,7 +8,7 @@ issue what program do you wish to have
 >
 > are you a programer to? __Great!__. help us to implement the program that people wish to have. for cooperation on the project(s) just [E-Mail](https://mail.google.com/mail/u/0/#inbox?compose=new) us or tell us in the corresponding "wish" issue.
 >
-> when some one ask us for contribute to a program, we will make a repo and add he/she to the list of contributes.
+> when someone ask us for contribute to a program, we will make a repo and add he/she to the list of contributes.
 >
 > when a projcet begun or finished. the project detail will writen to the following table.
 
