@@ -12,9 +12,9 @@ issue what program do you wish to have
 >
 > whene a projcet begun or finished. the project detal will writen to the following table with the __name__, __issue page in the *wish*__, __project repo link__ and the __current state__.
 
-| name | issue page | project link | current state |
-|:------:|:----------:|:-------------:|:--------------:|
-| wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish/issues/new)| to be continue |
+| number | name | issue page | project link | current state |
+|:------:|:----:|:----------:|:------------:|:-------------:|
+| 1 | wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish/issues/new)| building |
 
-
-> ![wish](https://s4.uupload.ir/files/wish_lfa3.jpg)
+---
+![wish](https://s4.uupload.ir/files/wish_lfa3.jpg)
