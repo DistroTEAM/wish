@@ -10,25 +10,27 @@ issue what program do you wish to have
 >
 > when some one ask us for contribute to a program, we will make a repo and add he/she to the list of contributes.
 >
-> whene a projcet begun or finished. the project detal will writen to the following table with the __name__, __issue page in the *wish*__, __project repo link__, __current state__ and __programing language__.
+> whene a projcet begun or finished. the project detail will writen to the following table.
 
 ---
-
-> Nuber: indicate the number of project(s).
-> 
-> Name: the name of the project.
-> 
-> issue page: whene someone describe the it's idea in our issue, we will link the issue page.
-> 
-> project link: the project can be in our repo or someone else repo, so the ling will get you there.
-> 
-> programing language: the language(s) which used to write the program.
-> 
-> state: the state of the project which let us know it is under __building_ or __finished__.
 
 | number | name | issue page | project link | programing language(s) | state |
 |:------:|:----:|:----------:|:------------:|:----------------------:|:-------------:|
 | 1 | wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish)| ![markdown](https://s4.uupload.ir/files/md_xae5.png) | building |
 
+#### the detail(s) are:
+> __Nuber__: indicate the number of project(s).
+> 
+> __Name__: the name of the project.
+> 
+> __issue page__: whene someone describe the it's idea in our issue, we will link the issue page.
+> 
+> __project link__: the project can be in our repo or someone else repo, so the ling will get you there.
+> 
+> __programing language__: the language(s) which used to write the program.
+> 
+> __state__: the state of the project which let us know it is under __building_ or __finished__.
+
 ---
+
 ![wish](https://s4.uupload.ir/files/wish_lfa3.jpg)
