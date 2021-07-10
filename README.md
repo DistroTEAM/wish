@@ -12,13 +12,13 @@ issue what program do you wish to have
 >
 > whene a projcet begun or finished. the project detail will writen to the following table.
 
----
 
-| number | name | issue page | project link | programing language(s) | state |
-|:------:|:----:|:----------:|:------------:|:----------------------:|:-------------:|
-| 1 | wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish)| ![markdown](https://s4.uupload.ir/files/md_xae5.png) | building |
+### Project(s) are:
+> | number | name | issue page | project link | programing language(s) | state |
+> |:------:|:----:|:----------:|:------------:|:----------------------:|:-------------:|
+> | 1 | wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish)| ![markdown](https://s4.uupload.ir/files/md_xae5.png) | building |
 
-#### the detail(s) are:
+### detail(s) concept:
 > __Nuber__: indicate the number of project(s).
 > 
 > __Name__: the name of the project.
