@@ -29,7 +29,7 @@ issue what program do you wish to have
 > 
 > __programing language__: the language(s) which used in the project.
 > 
-> __state__: the state of the project which let us know it is under __building_ or __finished__.
+> __state__: the state of the project which let us know it is under __building__ or it is __finished__.
 
 ---
 
