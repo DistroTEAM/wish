@@ -14,7 +14,7 @@ issue what program do you wish to have
 
 | number | name | issue page | project link | current state |
 |:------:|:----:|:----------:|:------------:|:-------------:|
-| 1 | wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish/issues/new)| building |
+| 1 | wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish)| building |
 
 ---
 ![wish](https://s4.uupload.ir/files/wish_lfa3.jpg)
