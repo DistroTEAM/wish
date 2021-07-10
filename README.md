@@ -16,7 +16,7 @@ issue what program do you wish to have
 ### Project(s) are:
 > | number | name | issue page | project link | programing language(s) | state |
 > |:------:|:----:|:----------:|:------------:|:----------------------|:-------------:|
-> | 1 | wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish)| ![markdown](https://s4.uupload.ir/files/md_xae5.png) | building |
+> | 1 | wish | [link](https://github.com/DistroTEAM/wish/issues/) |[link](https://github.com/DistroTEAM/wish)| ![markdown](https://b2n.ir/z61490) | building |
 
 ### detail(s) concept:
 > __Nuber__: indicate the number of project(s).
@@ -34,3 +34,10 @@ issue what program do you wish to have
 ---
 
 ![wish](https://s4.uupload.ir/files/wish_lfa3.jpg)
+
+
+[//]: # (if you need the image of programing languages use the following links, if you are adding a image be sure the size is 35px)
+[//]: # (markdown: https://b2n.ir/z61490)
+[//]: # (python: https://b2n.ir/d06737)
+
+
