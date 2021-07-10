@@ -27,7 +27,7 @@ issue what program do you wish to have
 > 
 > __project link__: the project can be in our repo or someone else repo, so the ling will get you there.
 > 
-> __programing language__: the language(s) which used to write the program.
+> __programing language__: the language(s) which used in the project.
 > 
 > __state__: the state of the project which let us know it is under __building_ or __finished__.
 
