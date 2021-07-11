@@ -10,7 +10,7 @@ issue what program do you wish to have
 > 
 > **O**r if you are working on a topic which someone issued that topic here, just tell us. we will add the datail on this page.
 > 
-> **W**hen someone ask us for contribute to a program, we will make a repo and add he/she to the list of contributes.
+> **W**hen someone ask us to contribute on a program, we will make a repo and add he/she to the list of contributes.
 >
 > **E**ach projcet which begun or finished, project detail will writen to the __project__ table.
 > 
