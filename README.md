@@ -16,19 +16,18 @@ issue what program do you wish to have
 
 
 ### Project(s) are:
-> | number | name | issue page | project link | programing language(s) | state |
-> |:------:|:----:|:----------:|:------------:|:----------------------|:-------------:|
-> | 1 | wish | [issue](https://github.com/DistroTEAM/wish/issues/) |[repo](https://github.com/DistroTEAM/wish)| ![markdown](https://b2n.ir/z61490) | building |
+> | name | issue page | project link | programing language(s) | state |
+> |:----:|:----------:|:------------:|:-----------------------|:-----:|
+> | wish | [issue](https://github.com/DistroTEAM/wish/issues/) |[repo](https://github.com/DistroTEAM/wish)| ![markdown](https://b2n.ir/z61490) | building |
 
 
 ### detail(s) concept:
-> __Number__: indicate the number of project(s).
 > 
 > __Name__: the name of the project.
 > 
 > __issue page__: whene someone describe the it's idea in our issue, we will link the issue page.
 > 
-> __project link__: the project can be in our repo or someone else repo, so the ling will get you there.
+> __project link__: the project can be in our repo or someone else repo, so the link will get you there.
 > 
 > __programing language__: the language(s) which used in the project.
 > 
