@@ -27,13 +27,13 @@ issue what program do you wish to have
 > 
 > __Name__: the name of the project.
 > 
-> __issue page__: whene someone describe it's idea in our issue, we will link the issue page.
+> __Issue page__: whene someone describe it's idea in our issue, we will link the issue page.
 > 
-> __project link__: the project can be in our repo or someone else repo, so the link will get you there.
+> __Project link__: the project can be in our repo or someone else repo, so the link will get you there.
 > 
-> __programing language__: the language(s) which used in the project.
+> __Programing language__: the language(s) which used in the project.
 > 
-> __state__: the state of the project which let us know it is under __building__ or it is __finished__.
+> __State__: the state of the project which let us know it is under __building__ or it is __finished__.
 
 ---
 
