@@ -35,9 +35,8 @@ issue what program do you wish to have
 > 
 > __State__: the state of the project which let us know it is under __building__ or it is __finished__.
 
----
 
-![wish](https://s4.uupload.ir/files/wish_lfa3.jpg)
+> ![wish](https://s4.uupload.ir/files/wish_lfa3.jpg)
 
 
 [//]: # (if you need the image of some programing language use the following direct-links, if you are adding a image be sure the size is exactly 35px)
