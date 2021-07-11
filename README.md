@@ -12,7 +12,7 @@ issue what program do you wish to have
 > 
 > **W**hen someone ask us to contribute on a program, we will make a repo and add he/she to the list of contributes.
 >
-> **E**ach projcet which begun or finished, project detail will writen to the __project__ table.
+> **E**ach projcet which begun or finished, project detail will writen to the _project(s) table_.
 > 
 > **T**he table help you finding project easily to contribute. and even it's can be use for finding useful program.
 
