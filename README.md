@@ -48,4 +48,4 @@ issue what program do you wish to have
 [//]: # (python: https://b2n.ir/d06737)
 [//]: # (c++: https://b2n.ir/g70215)
 [//]: # (javascript: https://b2n.ir/j38045)
-[//]: # (https://img.shields.io/github/languages/count/distroteam/wish) use this on language field in the table
+[//]: # (https://img.shields.io/github/languages/count/distroteam/wish <-use this on language field in the table)
