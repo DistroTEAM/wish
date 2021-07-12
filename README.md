@@ -1,6 +1,9 @@
 # wish
 issue what program do you wish to have
-![♡](https://img.shields.io/github/issues/distroteam/wish)
+---
+
+![all issue](https://img.shields.io/github/issues/distroteam/wish)
+![closed](https://img.shields.io/github/issues-closed-raw/distroteam/wish)
 
 ### Description:
 >
@@ -45,4 +48,4 @@ issue what program do you wish to have
 [//]: # (python: https://b2n.ir/d06737)
 [//]: # (c++: https://b2n.ir/g70215)
 [//]: # (javascript: https://b2n.ir/j38045)
-
+[//]: # (https://img.shields.io/github/languages/count/distroteam/wish) use this on language field in the table
