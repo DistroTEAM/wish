@@ -1,6 +1,6 @@
 # wish
 issue what program do you wish to have
-
+![♡](https://img.shields.io/github/issues/distroteam/wish)
 
 ### Description:
 >
