@@ -21,9 +21,9 @@ issue what program do you wish to have
 
 
 ### Project(s) are:
-> | name | issue page | project link | programing language(s) | state |
-> |:----:|:----------:|:------------:|:-----------------------|:-----:|
-> | wish | [issue](https://github.com/DistroTEAM/wish/issues/) |[repo](https://github.com/DistroTEAM/wish)| ![markdown](https://b2n.ir/z61490) | building |
+> | name | issue page | project link | programing language(s) | state | Title |
+> |:----:|:----------:|:------------:|:-----------------------|:-----:|:------|
+> | wish | [issue](https://github.com/DistroTEAM/wish/issues/) |[repo](https://github.com/DistroTEAM/wish)| ![markdown](https://b2n.ir/z61490) | building | issue what program do you wish to have |
 
 
 ### detail(s) concept:
